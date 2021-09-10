@@ -1,0 +1,13 @@
+C:\Users\takay\Desktop\PingTestTool\PingTestTool\bin\Release\address.csv
+C:\Users\takay\Desktop\PingTestTool\PingTestTool\bin\Release\PingTestTool.exe.config
+C:\Users\takay\Desktop\PingTestTool\PingTestTool\bin\Release\PingTestTool.exe
+C:\Users\takay\Desktop\PingTestTool\PingTestTool\bin\Release\PingTestTool.pdb
+C:\Users\takay\Desktop\PingTestTool\PingTestTool\obj\Release\PingTestTool.Form_common.resources
+C:\Users\takay\Desktop\PingTestTool\PingTestTool\obj\Release\PingTestTool.Main.resources
+C:\Users\takay\Desktop\PingTestTool\PingTestTool\obj\Release\PingTestTool.Properties.Resources.resources
+C:\Users\takay\Desktop\PingTestTool\PingTestTool\obj\Release\PingTestTool.Setting.resources
+C:\Users\takay\Desktop\PingTestTool\PingTestTool\obj\Release\PingTestTool.StartMenu.resources
+C:\Users\takay\Desktop\PingTestTool\PingTestTool\obj\Release\PingTestTool.csproj.GenerateResource.cache
+C:\Users\takay\Desktop\PingTestTool\PingTestTool\obj\Release\PingTestTool.csproj.CoreCompileInputs.cache
+C:\Users\takay\Desktop\PingTestTool\PingTestTool\obj\Release\PingTestTool.exe
+C:\Users\takay\Desktop\PingTestTool\PingTestTool\obj\Release\PingTestTool.pdb
