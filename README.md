@@ -12,7 +12,7 @@ Send PING to multiple devices. Then monitor the device. This software is for Win
 - Microsoft Visual Studio Professional 2019
 
 ## スクリーンショット
-![メイン画面](main.pig "setting")
+![メイン画面](main.png "setting")
 
 # アドレスの設定
 以下のように、改行して記述します。
