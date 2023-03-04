@@ -199,9 +199,9 @@ namespace PingTestTool
             StreamReader sr = new StreamReader(@"address.csv");
             string s1 = sr.ReadToEnd();
             sr.Close();
-            s1 = s1.Replace(Environment.NewLine, "\r");
-            s1 = s1.Trim('\r');
-            arr_address = s1.Split('\r');
+            s1 = s1.Replace(Environment.NewLine, "\n");
+            s1 = s1.Trim('\n');
+            arr_address = s1.Split('\n');
 
             int count4 = 0;
             int line = 0;
